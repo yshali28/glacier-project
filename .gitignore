@@ -1,0 +1,6 @@
+data/raw/
+   data/processed/
+   *.tif
+   *.npy
+   _pycache_/
+   .env
